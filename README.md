@@ -3,12 +3,9 @@
 
 ## Um pouco sobre mim 
 - Meu primeiro contato com programação foi nas aulas de robótica na escola, onde aprendi um pouco de C++. Nosso objetivo era ir para a OBR <br/>
-  Algumas fotos do evento abaixo
+  Algumas fotos do evento ⇩
   ![SAM_1347](https://github.com/user-attachments/assets/59c01cc6-c7e2-4d32-bf6a-8eecc1006be1)
-  ![SAM_1336](https://github.com/user-attachments/assets/de738322-9400-4bb3-9e93-c39a55398fc8)
-
-
-  
+  ![SAM_1336](https://github.com/user-attachments/assets/de738322-9400-4bb3-9e93-c39a55398fc8)  
 
 ## Linguagens e ferramentas que já utilizei 
 
