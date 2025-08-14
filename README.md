@@ -1,5 +1,10 @@
-# _Good morning, Elysium!_
-Olá, mundo! :3 Meu nome é Natalie. Pretendo me graduar em Engenharia de Software
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&size=31&pause=1000&color=AAF75B&width=435&lines=Hello%2C+world!" alt="Typing SVG" /></a>
+  </a>
+</div>
+<i>Good morning, Elysium!</i> Meu nome é Natalie :3 Pretendo me graduar em Engenharia de Software
+
+
 
 ## Um pouco sobre mim 
 - Cursando 4º semestre de Análise e Desenvolvimento de Sistemas no SENAI
