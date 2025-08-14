@@ -8,4 +8,4 @@ Olá, mundo! :3 Meu nome é Natalie. Pretendo me graduar em Engenharia de Softwa
 
 ## Linguagens e ferramentas que já utilizei 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,js,nodejs,css,express,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,py,html,js,nodejs,css,express,postman)](https://skillicons.dev)
