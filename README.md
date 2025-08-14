@@ -12,5 +12,3 @@ _Good morning, Elysium!_ Meu nome é Natalie :3 Pretendo me graduar em Engenhari
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,arduino,py,html,js,nodejs,css,express,postman)](https://skillicons.dev)
 
-## GitHub Stats
-[![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalie-baracat)](https://github.com/natalie-baracat/github-readme-stats)
