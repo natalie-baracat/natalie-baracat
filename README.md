@@ -1,10 +1,10 @@
 # _Good morning, Elysium!_
-🎀 Meu nome é Natalie :3 Tenho 18 anos e pretendo me graduar em Engenharia de Software. Estou no 4º semestre de Análise e Desenvolvimento de Sistemas no SENAI, e no Módulo III de Informática para Internet na ETEC
+Olá, mundo! :3 Meu nome é Natalie. Pretendo me graduar em Engenharia de Software
 
 ## Um pouco sobre mim 
-- Meu primeiro contato com programação foi nas aulas de robótica na escola, onde aprendi um pouco de C++. Nosso objetivo era ir para a OBR <br/>
-- Me tornei uma das programadoras da equipe, e me apaixonei por códigos
-- No SENAI, decidi que queria seguir na área de desenvolvimento
+- Cursando 4º semestre de Análise e Desenvolvimento de Sistemas no SENAI
+- Cursando Módulo III de Informática para Internet na ETEC
+- Inglês C1, segundo o CEFR
 
 ## Linguagens e ferramentas que já utilizei 
 
