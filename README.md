@@ -7,8 +7,11 @@ _Good morning, Elysium!_ Meu nome é Natalie :3 Pretendo me graduar em Engenhari
 - Cursando 4º semestre de Análise e Desenvolvimento de Sistemas no SENAI
 - Cursando Módulo III de Informática para Internet na ETEC
 - Inglês C1, segundo o CEFR
+- Amante de música (principalmente emo; não é uma fase!!!)
 
 ## Linguagens e ferramentas que já utilizei 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,py,html,js,nodejs,css,express,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,vscode,py,html,js,nodejs,css,express,postgres,postman,react,tailwind)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-baracat)](https://github.com/natalie-baracat/github-readme-stats)
 
