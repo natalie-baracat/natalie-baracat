@@ -15,3 +15,5 @@ _Good morning, Elysium!_ Meu nome é Natalie :3 Pretendo me graduar em Engenhari
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-baracat)](https://github.com/natalie-baracat/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=natalie-baracat)
+
